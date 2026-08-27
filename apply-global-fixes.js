@@ -63,6 +63,7 @@ const fixStyle = `
     overflow-x: auto !important;
     scroll-snap-type: x mandatory !important;
     -webkit-overflow-scrolling: touch !important;
+    touch-action: pan-x !important;
     width: 100% !important;
     height: auto !important;
   }
@@ -70,15 +71,36 @@ const fixStyle = `
   html body .banner .carousel .carousel-inner > .carousel-item:not(.active) {
     position: relative !important;
     display: block !important;
-    flex: 0 0 100vw !important;
-    width: 100vw !important;
-    min-width: 100vw !important;
-    max-width: 100vw !important;
+    flex: 0 0 100% !important;
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
     height: auto !important;
     opacity: 1 !important;
     visibility: visible !important;
     transform: none !important;
     scroll-snap-align: start !important;
+    touch-action: pan-x !important;
+  }
+  html body .banner .carousel .carousel-inner > a {
+    display: block !important;
+    flex: 0 0 100% !important;
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
+    scroll-snap-align: start !important;
+    text-decoration: none !important;
+    touch-action: pan-x !important;
+  }
+  html body .banner .carousel .carousel-inner > a .carousel-item {
+    position: relative !important;
+    display: block !important;
+    width: 100% !important;
+    height: auto !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
+    touch-action: pan-x !important;
   }
 
   /* Fix Our Casino: show all banners in a scrollable row */
@@ -314,19 +336,6 @@ const fixScript = `
   setTimeout(init, 500);
   setTimeout(init, 1500);
 
-  const items = document.querySelectorAll('.banner .carousel .carousel-item');
-  const inner = document.querySelector('.banner .carousel .carousel-inner');
-  if (items.length > 1) {
-    let i = 0;
-    setInterval(() => {
-      items.forEach(el => el.classList.remove('active'));
-      i = (i + 1) % items.length;
-      items[i].classList.add('active');
-      if (inner) {
-        inner.scrollLeft = items[i].offsetLeft;
-      }
-    }, 3000);
-  }
 
   // Stop auto scroll-to-top from scripts
   if (typeof window !== 'undefined') {
