@@ -1,0 +1,4 @@
+[   10629ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://admin.betex777.com/login:0
+[   24269ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ https://api.betex777.com/dashboard/bonus-analytics?fromDate=2026-08-19T18%3A30%3A00.000Z&toDate=2026-08-26T18%3A29%3A59.999Z:0
+[   36738ms] [WARNING] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}. @ https://admin.betex777.com/assets/index-BE3WIoYr.js:469
+[   40584ms] [WARNING] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}. @ https://admin.betex777.com/assets/index-BE3WIoYr.js:469

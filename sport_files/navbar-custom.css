@@ -1,0 +1,166 @@
+/* Custom Navbar Styling */
+.point-inner-user-bal {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin: 0 20px;
+  font-weight: 600;
+}
+
+.point-inner-user-bal span {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.navbar-buttons {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: auto;
+  margin-right: 20px;
+}
+
+.btn-login {
+  background-color: #1abc9c;
+  color: white;
+  padding: 8px 20px;
+  border: none;
+  border-radius: 4px;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.btn-login:hover {
+  background-color: #16a085;
+  text-decoration: none;
+  color: white;
+}
+
+.btn-demo {
+  background-color: #27ae60;
+  color: white;
+  padding: 8px 20px;
+  border: none;
+  border-radius: 4px;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.btn-demo:hover {
+  background-color: #229954;
+  text-decoration: none;
+  color: white;
+}
+
+.btn-apk {
+  background-color: #f1c40f;
+  color: #333;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 12px;
+  transition: background-color 0.3s;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.btn-apk:hover {
+  background-color: #f39c12;
+  text-decoration: none;
+  color: #333;
+}
+
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-right: 20px;
+}
+
+.theme-toggle i {
+  font-size: 18px;
+  cursor: pointer;
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .navbar-buttons {
+    flex-direction: column;
+    gap: 5px;
+    margin-right: 10px;
+  }
+
+  .btn-login, .btn-demo, .btn-apk {
+    padding: 6px 12px;
+    font-size: 12px;
+  }
+
+  .point-inner-user-bal {
+    display: none;
+  }
+}
+
+/* Permanently remove the Demo account / points balance widget from the header
+   (was reappearing on refresh because it was only hidden via a one-off
+   browser script instead of CSS baked into the served page). */
+.balance,
+.bal-point,
+.username-info,
+.point-inner-user,
+.point-inner-user-bal,
+.point-inner-user-icons,
+.header-right,
+.header-right-point {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+}
+
+/* Fix hero carousel: make all slides visible and swipeable */
+.banner .carousel .carousel-inner {
+  display: flex !important;
+  overflow-x: auto !important;
+  scroll-snap-type: x mandatory !important;
+  -webkit-overflow-scrolling: touch !important;
+}
+
+.banner .carousel .carousel-item {
+  display: block !important;
+  flex: 0 0 100% !important;
+  width: 100% !important;
+  scroll-snap-align: start !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Fix Our Casino hooper: make all banner slides visible and scrollable */
+.home-casiono-icons .hooper-track {
+  display: flex !important;
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch !important;
+}
+
+.home-casiono-icons .hooper-slide {
+  flex: 0 0 auto !important;
+  width: auto !important;
+  min-width: 150px !important;
+  max-width: 180px !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+.home-casiono-icons .carousal-63 {
+  min-width: 150px !important;
+  max-width: 180px !important;
+}

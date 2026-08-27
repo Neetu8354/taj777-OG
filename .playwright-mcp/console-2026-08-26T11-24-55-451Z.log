@@ -1,0 +1,398 @@
+[     703ms] Unexpected token '<'
+[    2599ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport:0
+[    3174ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/saved_resource:0
+[    3646ms] Unexpected token '<'
+[    3854ms] Unexpected token '<'
+[    3894ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/saved_resource:4209:1
+[    3907ms] Unexpected token '<'
+[    3925ms] Unexpected token '<'
+[    3931ms] Unexpected token '<'
+[    3963ms] Unexpected token '<'
+[    4051ms] Unexpected token '<'
+[    4132ms] Unexpected token '<'
+[    4147ms] Unexpected token '<'
+[    4175ms] Unexpected token '<'
+[    4196ms] Unexpected token '<'
+[    4322ms] Unexpected token '<'
+[    4605ms] Unexpected token '<'
+[    4612ms] Unexpected token '<'
+[    4632ms] Unexpected token '<'
+[    4640ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/saved_resource:0
+[    4646ms] Unexpected token '<'
+[    5751ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/saved_resource:0
+[    5777ms] Unexpected token '<'
+[    6203ms] Unexpected token '<'
+[    6219ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/saved_resource:4209:1
+[    6219ms] Unexpected token '<'
+[    6363ms] Unexpected token '<'
+[    6401ms] Unexpected token '<'
+[    6447ms] Unexpected token '<'
+[    6466ms] Unexpected token '<'
+[    6536ms] Unexpected token '<'
+[    6653ms] Unexpected token '<'
+[    6673ms] Unexpected token '<'
+[    6693ms] Unexpected token '<'
+[    6734ms] Unexpected token '<'
+[    7055ms] Unexpected token '<'
+[    7088ms] Unexpected token '<'
+[    7088ms] Unexpected token '<'
+[    7124ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/saved_resource:0
+[    7224ms] Unexpected token '<'
+[    8025ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/saved_resource:0
+[    8821ms] Unexpected token '<'
+[    8997ms] Unexpected token '<'
+[    9063ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/saved_resource:4209:1
+[    9071ms] Unexpected token '<'
+[    9166ms] Unexpected token '<'
+[    9309ms] Unexpected token '<'
+[    9336ms] Unexpected token '<'
+[    9354ms] Unexpected token '<'
+[    9359ms] Unexpected token '<'
+[    9402ms] Unexpected token '<'
+[    9464ms] Unexpected token '<'
+[    9570ms] Unexpected token '<'
+[    9632ms] Unexpected token '<'
+[    9919ms] Unexpected token '<'
+[    9925ms] Unexpected token '<'
+[    9942ms] Unexpected token '<'
+[    9977ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/saved_resource:0
+[    9985ms] Unexpected token '<'
+[   11053ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   11067ms] Unexpected token '<'
+[   11516ms] Unexpected token '<'
+[   11533ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   11536ms] Unexpected token '<'
+[   11543ms] Unexpected token '<'
+[   12046ms] Unexpected token '<'
+[   12063ms] Unexpected token '<'
+[   12069ms] Unexpected token '<'
+[   12083ms] Unexpected token '<'
+[   12091ms] Unexpected token '<'
+[   12141ms] Unexpected token '<'
+[   12150ms] Unexpected token '<'
+[   12183ms] Unexpected token '<'
+[   12525ms] Unexpected token '<'
+[   12533ms] Unexpected token '<'
+[   12538ms] Unexpected token '<'
+[   12565ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   12572ms] Unexpected token '<'
+[   13629ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   13642ms] Unexpected token '<'
+[   14034ms] Unexpected token '<'
+[   14043ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   14051ms] Unexpected token '<'
+[   14057ms] Unexpected token '<'
+[   14071ms] Unexpected token '<'
+[   14078ms] Unexpected token '<'
+[   14142ms] Unexpected token '<'
+[   14238ms] Unexpected token '<'
+[   14285ms] Unexpected token '<'
+[   14298ms] Unexpected token '<'
+[   14301ms] Unexpected token '<'
+[   14364ms] Unexpected token '<'
+[   14657ms] Unexpected token '<'
+[   14666ms] Unexpected token '<'
+[   14683ms] Unexpected token '<'
+[   14692ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   14742ms] Unexpected token '<'
+[   15937ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   15953ms] Unexpected token '<'
+[   16115ms] Unexpected token '<'
+[   16182ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   16189ms] Unexpected token '<'
+[   16206ms] Unexpected token '<'
+[   16237ms] Unexpected token '<'
+[   16372ms] Unexpected token '<'
+[   16384ms] Unexpected token '<'
+[   16391ms] Unexpected token '<'
+[   16409ms] Unexpected token '<'
+[   16436ms] Unexpected token '<'
+[   16541ms] Unexpected token '<'
+[   16648ms] Unexpected token '<'
+[   16905ms] Unexpected token '<'
+[   16912ms] Unexpected token '<'
+[   16925ms] Unexpected token '<'
+[   16952ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   16957ms] Unexpected token '<'
+[   18016ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   18031ms] Unexpected token '<'
+[   18521ms] Unexpected token '<'
+[   18536ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   18542ms] Unexpected token '<'
+[   18550ms] Unexpected token '<'
+[   18649ms] Unexpected token '<'
+[   18673ms] Unexpected token '<'
+[   18743ms] Unexpected token '<'
+[   18750ms] Unexpected token '<'
+[   18834ms] Unexpected token '<'
+[   18952ms] Unexpected token '<'
+[   18971ms] Unexpected token '<'
+[   18989ms] Unexpected token '<'
+[   19246ms] Unexpected token '<'
+[   19251ms] Unexpected token '<'
+[   19269ms] Unexpected token '<'
+[   19303ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   19350ms] Unexpected token '<'
+[   19922ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   20608ms] Unexpected token '<'
+[   20918ms] Unexpected token '<'
+[   20935ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   20942ms] Unexpected token '<'
+[   20960ms] Unexpected token '<'
+[   20968ms] Unexpected token '<'
+[   21047ms] Unexpected token '<'
+[   21139ms] Unexpected token '<'
+[   21219ms] Unexpected token '<'
+[   21236ms] Unexpected token '<'
+[   21375ms] Unexpected token '<'
+[   21409ms] Unexpected token '<'
+[   21418ms] Unexpected token '<'
+[   21752ms] Unexpected token '<'
+[   21759ms] Unexpected token '<'
+[   21775ms] Unexpected token '<'
+[   21807ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   21815ms] Unexpected token '<'
+[   22921ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   23091ms] Unexpected token '<'
+[   23786ms] Unexpected token '<'
+[   23800ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   23868ms] Unexpected token '<'
+[   23873ms] Unexpected token '<'
+[   23882ms] Unexpected token '<'
+[   23910ms] Unexpected token '<'
+[   24067ms] Unexpected token '<'
+[   24205ms] Unexpected token '<'
+[   24216ms] Unexpected token '<'
+[   24251ms] Unexpected token '<'
+[   24391ms] Unexpected token '<'
+[   24419ms] Unexpected token '<'
+[   24917ms] Unexpected token '<'
+[   24917ms] Unexpected token '<'
+[   24937ms] Unexpected token '<'
+[   24988ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   25000ms] Unexpected token '<'
+[   26837ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   27635ms] Unexpected token '<'
+[   27806ms] Unexpected token '<'
+[   27937ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   28266ms] Unexpected token '<'
+[   29004ms] Unexpected token '<'
+[   29423ms] Unexpected token '<'
+[   29587ms] Unexpected token '<'
+[   29659ms] Unexpected token '<'
+[   29670ms] Unexpected token '<'
+[   29684ms] Unexpected token '<'
+[   29691ms] Unexpected token '<'
+[   29751ms] Unexpected token '<'
+[   29760ms] Unexpected token '<'
+[   30184ms] Unexpected token '<'
+[   30258ms] Unexpected token '<'
+[   30266ms] Unexpected token '<'
+[   30307ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   30317ms] Unexpected token '<'
+[   31560ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   31576ms] Unexpected token '<'
+[   31850ms] Unexpected token '<'
+[   31882ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   31892ms] Unexpected token '<'
+[   31923ms] Unexpected token '<'
+[   31932ms] Unexpected token '<'
+[   31943ms] Unexpected token '<'
+[   32126ms] Unexpected token '<'
+[   32201ms] Unexpected token '<'
+[   32204ms] Unexpected token '<'
+[   32217ms] Unexpected token '<'
+[   32223ms] Unexpected token '<'
+[   32236ms] Unexpected token '<'
+[   32632ms] Unexpected token '<'
+[   32641ms] Unexpected token '<'
+[   32649ms] Unexpected token '<'
+[   32701ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   32742ms] Unexpected token '<'
+[   33792ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   33808ms] Unexpected token '<'
+[   34446ms] Unexpected token '<'
+[   34458ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   34469ms] Unexpected token '<'
+[   34485ms] Unexpected token '<'
+[   34493ms] Unexpected token '<'
+[   34507ms] Unexpected token '<'
+[   34551ms] Unexpected token '<'
+[   34696ms] Unexpected token '<'
+[   34718ms] Unexpected token '<'
+[   34768ms] Unexpected token '<'
+[   34777ms] Unexpected token '<'
+[   34838ms] Unexpected token '<'
+[   35270ms] Unexpected token '<'
+[   35285ms] Unexpected token '<'
+[   35300ms] Unexpected token '<'
+[   35397ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   35417ms] Unexpected token '<'
+[   36543ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   36568ms] Unexpected token '<'
+[   36854ms] Unexpected token '<'
+[   36983ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   37204ms] Unexpected token '<'
+[   37393ms] Unexpected token '<'
+[   37424ms] Unexpected token '<'
+[   37619ms] Unexpected token '<'
+[   37621ms] Unexpected token '<'
+[   37635ms] Unexpected token '<'
+[   37801ms] Unexpected token '<'
+[   37808ms] Unexpected token '<'
+[   37875ms] Unexpected token '<'
+[   37897ms] Unexpected token '<'
+[   38189ms] Unexpected token '<'
+[   38195ms] Unexpected token '<'
+[   38242ms] Unexpected token '<'
+[   38281ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   38305ms] Unexpected token '<'
+[   40148ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   40277ms] Unexpected token '<'
+[   41633ms] Unexpected token '<'
+[   41697ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   41704ms] Unexpected token '<'
+[   41713ms] Unexpected token '<'
+[   41791ms] Unexpected token '<'
+[   41814ms] Unexpected token '<'
+[   41864ms] Unexpected token '<'
+[   41874ms] Unexpected token '<'
+[   41956ms] Unexpected token '<'
+[   41968ms] Unexpected token '<'
+[   41975ms] Unexpected token '<'
+[   41990ms] Unexpected token '<'
+[   42190ms] Unexpected token '<'
+[   42196ms] Unexpected token '<'
+[   42271ms] Unexpected token '<'
+[   42299ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   42309ms] Unexpected token '<'
+[   43525ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   43540ms] Unexpected token '<'
+[   43791ms] Unexpected token '<'
+[   43810ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   43822ms] Unexpected token '<'
+[   43892ms] Unexpected token '<'
+[   43953ms] Unexpected token '<'
+[   43984ms] Unexpected token '<'
+[   43990ms] Unexpected token '<'
+[   44019ms] Unexpected token '<'
+[   44037ms] Unexpected token '<'
+[   44201ms] Unexpected token '<'
+[   44209ms] Unexpected token '<'
+[   44240ms] Unexpected token '<'
+[   44724ms] Unexpected token '<'
+[   44733ms] Unexpected token '<'
+[   44807ms] Unexpected token '<'
+[   44829ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   44839ms] Unexpected token '<'
+[   45920ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   45938ms] Unexpected token '<'
+[   46429ms] Unexpected token '<'
+[   46553ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   46575ms] Unexpected token '<'
+[   46601ms] Unexpected token '<'
+[   46683ms] Unexpected token '<'
+[   46691ms] Unexpected token '<'
+[   46759ms] Unexpected token '<'
+[   46792ms] Unexpected token '<'
+[   46844ms] Unexpected token '<'
+[   46884ms] Unexpected token '<'
+[   46908ms] Unexpected token '<'
+[   46998ms] Unexpected token '<'
+[   47210ms] Unexpected token '<'
+[   47216ms] Unexpected token '<'
+[   47273ms] Unexpected token '<'
+[   47292ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   47303ms] Unexpected token '<'
+[   48804ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   48922ms] Unexpected token '<'
+[   49086ms] Unexpected token '<'
+[   49210ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   49226ms] Unexpected token '<'
+[   49240ms] Unexpected token '<'
+[   49573ms] Unexpected token '<'
+[   49593ms] Unexpected token '<'
+[   49630ms] Unexpected token '<'
+[   49632ms] Unexpected token '<'
+[   49654ms] Unexpected token '<'
+[   49695ms] Unexpected token '<'
+[   49728ms] Unexpected token '<'
+[   49858ms] Unexpected token '<'
+[   50085ms] Unexpected token '<'
+[   50142ms] Unexpected token '<'
+[   50153ms] Unexpected token '<'
+[   50208ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   50276ms] Unexpected token '<'
+[   52969ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   53010ms] Unexpected token '<'
+[   53314ms] Unexpected token '<'
+[   53360ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   53451ms] Unexpected token '<'
+[   53466ms] Unexpected token '<'
+[   53555ms] Unexpected token '<'
+[   53617ms] Unexpected token '<'
+[   53653ms] Unexpected token '<'
+[   53662ms] Unexpected token '<'
+[   53726ms] Unexpected token '<'
+[   53850ms] Unexpected token '<'
+[   53859ms] Unexpected token '<'
+[   53881ms] Unexpected token '<'
+[   54176ms] Unexpected token '<'
+[   54207ms] Unexpected token '<'
+[   54216ms] Unexpected token '<'
+[   54301ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   54310ms] Unexpected token '<'
+[   55624ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   55634ms] Unexpected token '<'
+[   55697ms] Unexpected token '<'
+[   55800ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   55917ms] Unexpected token '<'
+[   55951ms] Unexpected token '<'
+[   56141ms] Unexpected token '<'
+[   56190ms] Unexpected token '<'
+[   56196ms] Unexpected token '<'
+[   56233ms] Unexpected token '<'
+[   56439ms] Unexpected token '<'
+[   56583ms] Unexpected token '<'
+[   56593ms] Unexpected token '<'
+[   56674ms] Unexpected token '<'
+[   57020ms] Unexpected token '<'
+[   57024ms] Unexpected token '<'
+[   57028ms] Unexpected token '<'
+[   57082ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'LCEfT8rjmrKEPjq5NbYc6Vj3gbjv+3aOCiM5hwpckjQpKoA+VLnVT2J9q93fIHZzIYbI1DE+sVQ4MFOlfI5orA=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   57091ms] Unexpected token '<'
+[   59488ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'MSSZ7e+NrlwuNZ7Id716XmXjpMvQ16dRMq7zEcjxzBQ='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   59523ms] Unexpected token '<'
+[   60332ms] Unexpected token '<'
+[   60533ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4209:1
+[   60586ms] Unexpected token '<'
+[   60660ms] Unexpected token '<'
+[   60720ms] Unexpected token '<'
+[   60841ms] Unexpected token '<'
+[   60852ms] Unexpected token '<'
+[   60869ms] Unexpected token '<'
+[   60955ms] Unexpected token '<'
+[   60967ms] Unexpected token '<'
+[   60974ms] Unexpected token '<'
+[   61049ms] Unexpected token '<'
+[   63370ms] Unexpected token '<'

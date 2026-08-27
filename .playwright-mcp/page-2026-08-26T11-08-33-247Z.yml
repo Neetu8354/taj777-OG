@@ -1,0 +1,1468 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - list [ref=e5]:
+      - listitem [ref=e6]:
+        - link "Crash" [ref=e7] [cursor=pointer]:
+          - /url: "#"
+      - listitem [ref=e18]:
+        - link "Lottery" [ref=e19] [cursor=pointer]:
+          - /url: "#"
+      - listitem [ref=e20]:
+        - link "Exchange" [ref=e21] [cursor=pointer]:
+          - /url: "#"
+      - listitem [ref=e22]:
+        - link "Live Casino" [ref=e23] [cursor=pointer]:
+          - /url: "#"
+      - listitem [ref=e24]:
+        - link "Slot" [ref=e25] [cursor=pointer]:
+          - /url: "#"
+      - listitem [ref=e26]:
+        - link "Fantasy Games" [ref=e27] [cursor=pointer]:
+          - /url: "#"
+      - listitem [ref=e28]:
+        - link "Reports" [ref=e29] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=e30]:
+      - generic [ref=e31]: NEWS
+      - generic [ref=e32]: Live Cricket, Sports, Casino & Our Exchange—Play Anytime, Win Big!
+      - generic [ref=e34]:
+        - button "Login" [ref=e35] [cursor=pointer]
+        - button "Demo" [ref=e36] [cursor=pointer]
+  - generic [ref=e37]:
+    - link [ref=e40] [cursor=pointer]:
+      - /url: "#"
+    - textbox "Search" [ref=e44]
+    - generic [ref=e46]:
+      - heading "Racing Sports" [level=5] [ref=e47]
+      - list [ref=e48]:
+        - listitem [ref=e49]:
+          - generic [ref=e50] [cursor=pointer]:
+            - generic [ref=e51]: 🐎
+            - generic [ref=e52]: Horse Racing
+        - listitem [ref=e53]:
+          - generic [ref=e54] [cursor=pointer]:
+            - generic [ref=e55]: 🐕
+            - generic [ref=e56]: Greyhound Racing
+    - generic [ref=e57]:
+      - heading "All Sports" [level=5] [ref=e58]
+      - generic [ref=e61]:
+        - list [ref=e62]:
+          - listitem [ref=e63] [cursor=pointer]:
+            - generic [ref=e64]:
+              - generic [ref=e65]: 🏛
+              - generic [ref=e66]: Politics
+              - generic [ref=e67]: (1)
+        - list [ref=e68]:
+          - listitem [ref=e69] [cursor=pointer]:
+            - generic [ref=e70]:
+              - generic [ref=e71]: 🏏
+              - generic [ref=e72]: Cricket
+              - generic [ref=e73]: (25)
+        - list [ref=e74]:
+          - listitem [ref=e75] [cursor=pointer]:
+            - generic [ref=e76]:
+              - generic [ref=e77]: ⚽
+              - generic [ref=e78]: Football
+              - generic [ref=e79]: (90)
+        - list [ref=e80]:
+          - listitem [ref=e81] [cursor=pointer]:
+            - generic [ref=e82]:
+              - generic [ref=e83]: 🎾
+              - generic [ref=e84]: Tennis
+              - generic [ref=e85]: (208)
+        - list [ref=e86]:
+          - listitem [ref=e87] [cursor=pointer]:
+            - generic [ref=e88]:
+              - generic [ref=e89]: 🏓
+              - generic [ref=e90]: Table Tennis
+              - generic [ref=e91]: (189)
+        - list [ref=e92]:
+          - listitem [ref=e93] [cursor=pointer]:
+            - generic [ref=e94]:
+              - generic [ref=e95]: 🏸
+              - generic [ref=e96]: Badminton
+        - list [ref=e97]:
+          - listitem [ref=e98] [cursor=pointer]:
+            - generic [ref=e99]:
+              - generic [ref=e100]: 🏆
+              - generic [ref=e101]: Esoccer
+              - generic [ref=e102]: (11)
+        - list [ref=e103]:
+          - listitem [ref=e104] [cursor=pointer]:
+            - generic [ref=e105]:
+              - generic [ref=e106]: 🏀
+              - generic [ref=e107]: Basketball
+              - generic [ref=e108]: (13)
+        - list [ref=e109]:
+          - listitem [ref=e110] [cursor=pointer]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: 🏐
+              - generic [ref=e113]: Volleyball
+              - generic [ref=e114]: (33)
+        - list [ref=e115]:
+          - listitem [ref=e116] [cursor=pointer]:
+            - generic [ref=e117]:
+              - generic [ref=e118]: 🏆
+              - generic [ref=e119]: Snooker
+              - generic [ref=e120]: (6)
+        - list [ref=e121]:
+          - listitem [ref=e122] [cursor=pointer]:
+            - generic [ref=e123]:
+              - generic [ref=e124]: 🏎
+              - generic [ref=e125]: Ice Hockey
+        - list [ref=e126]:
+          - listitem [ref=e127] [cursor=pointer]:
+            - generic [ref=e128]:
+              - generic [ref=e129]: 🎮
+              - generic [ref=e130]: E Games
+              - generic [ref=e131]: (9)
+        - list [ref=e132]:
+          - listitem [ref=e133] [cursor=pointer]:
+            - generic [ref=e134]:
+              - generic [ref=e135]: 🥊
+              - generic [ref=e136]: Futsal
+        - list [ref=e137]:
+          - listitem [ref=e138] [cursor=pointer]:
+            - generic [ref=e139]:
+              - generic [ref=e140]: 🏆
+              - generic [ref=e141]: Handball
+        - list [ref=e142]:
+          - listitem [ref=e143] [cursor=pointer]:
+            - generic [ref=e144]:
+              - generic [ref=e145]: 🏆
+              - generic [ref=e146]: Kabaddi
+        - list [ref=e147]:
+          - listitem [ref=e148] [cursor=pointer]:
+            - generic [ref=e149]:
+              - generic [ref=e150]: 🏒
+              - generic [ref=e151]: Golf
+        - list [ref=e152]:
+          - listitem [ref=e153] [cursor=pointer]:
+            - generic [ref=e154]:
+              - generic [ref=e155]: 🏆
+              - generic [ref=e156]: Rugby League
+        - list [ref=e157]:
+          - listitem [ref=e158] [cursor=pointer]:
+            - generic [ref=e159]:
+              - generic [ref=e160]: ⛳
+              - generic [ref=e161]: Boxing
+              - generic [ref=e162]: (12)
+        - list [ref=e163]:
+          - listitem [ref=e164] [cursor=pointer]:
+            - generic [ref=e165]:
+              - generic [ref=e166]: 🏓
+              - generic [ref=e167]: Beach Volleyball
+        - list [ref=e168]:
+          - listitem [ref=e169] [cursor=pointer]:
+            - generic [ref=e170]:
+              - generic [ref=e171]: 🏑
+              - generic [ref=e172]: Mixed Martial Arts
+        - list [ref=e173]:
+          - listitem [ref=e174] [cursor=pointer]:
+            - generic [ref=e175]:
+              - generic [ref=e176]: 🎾
+              - generic [ref=e177]: MotoGP
+        - list [ref=e178]:
+          - listitem [ref=e179] [cursor=pointer]:
+            - generic [ref=e180]:
+              - generic [ref=e181]: ⚽
+              - generic [ref=e182]: Chess
+              - generic [ref=e183]: (1)
+        - list [ref=e184]:
+          - listitem [ref=e185] [cursor=pointer]:
+            - generic [ref=e186]:
+              - generic [ref=e187]: 🏆
+              - generic [ref=e188]: Cycling
+        - list [ref=e189]:
+          - listitem [ref=e190] [cursor=pointer]:
+            - generic [ref=e191]:
+              - generic [ref=e192]: 🏆
+              - generic [ref=e193]: Motorbikes
+        - list [ref=e194]:
+          - listitem [ref=e195] [cursor=pointer]:
+            - generic [ref=e196]:
+              - generic [ref=e197]: 🏆
+              - generic [ref=e198]: Athletics
+        - list [ref=e199]:
+          - listitem [ref=e200] [cursor=pointer]:
+            - generic [ref=e201]:
+              - generic [ref=e202]: 🏆
+              - generic [ref=e203]: Basketball 3X3
+        - list [ref=e204]:
+          - listitem [ref=e205] [cursor=pointer]:
+            - generic [ref=e206]:
+              - generic [ref=e207]: 🏆
+              - generic [ref=e208]: Sumo
+        - list [ref=e209]:
+          - listitem [ref=e210] [cursor=pointer]:
+            - generic [ref=e211]:
+              - generic [ref=e212]: 🏆
+              - generic [ref=e213]: Virtual sports
+        - list [ref=e214]:
+          - listitem [ref=e215] [cursor=pointer]:
+            - generic [ref=e216]:
+              - generic [ref=e217]: 🏆
+              - generic [ref=e218]: Motor Sports
+              - generic [ref=e219]: (3)
+        - list [ref=e220]:
+          - listitem [ref=e221] [cursor=pointer]:
+            - generic [ref=e222]:
+              - generic [ref=e223]: 🏆
+              - generic [ref=e224]: Baseball
+        - list [ref=e225]:
+          - listitem [ref=e226] [cursor=pointer]:
+            - generic [ref=e227]:
+              - generic [ref=e228]: 🏆
+              - generic [ref=e229]: Rugby Union
+        - list [ref=e230]:
+          - listitem [ref=e231] [cursor=pointer]:
+            - generic [ref=e232]:
+              - generic [ref=e233]: 🏆
+              - generic [ref=e234]: Darts
+        - list [ref=e235]:
+          - listitem [ref=e236] [cursor=pointer]:
+            - generic [ref=e237]:
+              - generic [ref=e238]: 🏈
+              - generic [ref=e239]: American Football
+        - list [ref=e240]:
+          - listitem [ref=e241] [cursor=pointer]:
+            - generic [ref=e242]:
+              - generic [ref=e243]: 🏆
+              - generic [ref=e244]: Soccer
+        - list [ref=e245]:
+          - listitem [ref=e246] [cursor=pointer]:
+            - generic [ref=e247]:
+              - generic [ref=e248]: 🏆
+              - generic [ref=e249]: Esports
+        - list [ref=e250]:
+          - listitem [ref=e251] [cursor=pointer]:
+            - generic [ref=e252]:
+              - generic [ref=e253]: 🏆
+              - generic [ref=e254]: Boat Racing
+        - list [ref=e255]:
+          - listitem [ref=e256] [cursor=pointer]:
+            - generic [ref=e257]:
+              - generic [ref=e258]: 🤼
+              - generic [ref=e259]: Wrestling
+              - generic [ref=e260]: (5)
+  - generic [ref=e261]:
+    - banner:
+      - generic: 🐎 🐕 🏛 🏏 ⚽ 🎾 🏓 🏸 🏆 🏀 🏐 🏆 🏎 🎮 🥊 🏆 🏆 🏒 🏆 ⛳ 🏓 🏑 🎾 ⚽ 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏈 🏆 🏆 🏆 🤼
+      - text: 🏆 🏓 🏀 🐎 🐕 🏀 🎾 🏐 ⚽ 🎮 🐕 ⚽ 🏀 🎾
+      - generic [ref=e262]: Live Cricket, Sports, Casino & Our Exchange—Play Anytime, Win Big!
+    - generic [ref=e267]:
+      - text: 🏆 🏓 🏀 🐎 🐕 🏀 🎾 🏐 ⚽ 🎮 🐕 ⚽ 🏀 🎾
+      - generic [ref=e268]:
+        - generic [ref=e269]:
+          - generic [ref=e270]:
+            - link "🏏 Sri Lanka v India" [ref=e272] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e273]: 🏏
+              - generic [ref=e274]: Sri Lanka v India
+            - link "🏓 Bohdan Kohut - Anton Molochko" [ref=e276] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e277]: 🏓
+              - generic [ref=e278]: Bohdan Kohut - Anton Molochko
+          - text: 
+          - region [ref=e280]:
+            - list [ref=e281]:
+              - link [ref=e282] [cursor=pointer]:
+                - /url: "#"
+                - listitem [ref=e283]
+              - listitem [ref=e284]
+              - link [ref=e285] [cursor=pointer]:
+                - /url: "#"
+                - listitem [ref=e286]
+              - link [ref=e287] [cursor=pointer]:
+                - /url: "#"
+                - listitem [ref=e288]
+              - link [ref=e289] [cursor=pointer]:
+                - /url: "#"
+                - listitem [ref=e290]
+              - listitem [ref=e291]
+              - link [ref=e292] [cursor=pointer]:
+                - /url: "#"
+                - listitem [ref=e293]
+              - link [ref=e294] [cursor=pointer]:
+                - /url: "#"
+                - listitem [ref=e295]
+              - link [ref=e296] [cursor=pointer]:
+                - /url: "#"
+                - listitem [ref=e297]
+            - list "Select a slide to display" [ref=e298]:
+              - button "Goto slide 1" [ref=e299] [cursor=pointer]
+              - button "Goto slide 2" [ref=e300] [cursor=pointer]
+              - button "Goto slide 3" [ref=e301] [cursor=pointer]
+              - button "Goto slide 4" [ref=e302] [cursor=pointer]
+              - button "Goto slide 5" [ref=e303] [cursor=pointer]
+              - button "Goto slide 6" [ref=e304] [cursor=pointer]
+              - button "Goto slide 7" [ref=e305] [cursor=pointer]
+              - button "Goto slide 8" [ref=e306] [cursor=pointer]
+              - button "Goto slide 9" [ref=e307] [cursor=pointer]
+          - generic [ref=e308]:
+            - link [ref=e309] [cursor=pointer]:
+              - /url: "#"
+            - list [ref=e311]:
+              - listitem [ref=e312]:
+                - link "🏏 Cricket" [ref=e313] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e314]: 🏏
+                  - generic [ref=e315]: Cricket
+              - listitem [ref=e316]:
+                - link "🃏 + ♠ Cricket" [ref=e317] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e318]: 🃏
+                  - generic [ref=e319]: +
+                  - generic [ref=e320]: ♠
+                  - generic [ref=e321]: Cricket
+              - listitem [ref=e322]:
+                - link "⚽ Football" [ref=e323] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e324]: ⚽
+                  - generic [ref=e325]: Football
+              - listitem [ref=e326]:
+                - link "🎾 Tennis" [ref=e327] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e328]: 🎾
+                  - generic [ref=e329]: Tennis
+              - listitem [ref=e330]:
+                - link "🏓 Table Tennis" [ref=e331] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e332]: 🏓
+                  - generic [ref=e333]: Table Tennis
+              - listitem [ref=e334]:
+                - link "🐎 Horse Racing" [ref=e335] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e336]: 🐎
+                  - generic [ref=e337]: Horse Racing
+              - listitem [ref=e338]:
+                - link "🐕 Greyhound Racing" [ref=e339] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e340]: 🐕
+                  - generic [ref=e341]: Greyhound Racing
+              - listitem [ref=e342]:
+                - link "🏀 Basketball" [ref=e343] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e344]: 🏀
+                  - generic [ref=e345]: Basketball
+              - listitem [ref=e346]:
+                - link "🤼 Wrestling" [ref=e347] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e348]: 🤼
+                  - generic [ref=e349]: Wrestling
+              - listitem [ref=e350]:
+                - link "🏐 Volleyball" [ref=e351] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e352]: 🏐
+                  - generic [ref=e353]: Volleyball
+              - listitem [ref=e354]:
+                - link "🎮 E Games" [ref=e355] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e356]: 🎮
+                  - generic [ref=e357]: E Games
+              - listitem [ref=e358]:
+                - link "🏸 Badminton" [ref=e359] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e360]: 🏸
+                  - generic [ref=e361]: Badminton
+              - listitem [ref=e362]:
+                - link "🏈 American Football" [ref=e363] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e364]: 🏈
+                  - generic [ref=e365]: American Football
+              - listitem [ref=e366]:
+                - link "🏑 Mixed Martial Arts" [ref=e367] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e368]: 🏑
+                  - generic [ref=e369]: Mixed Martial Arts
+              - listitem [ref=e370]:
+                - link "⛳ Boxing" [ref=e371] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e372]: ⛳
+                  - generic [ref=e373]: Boxing
+              - listitem [ref=e374]:
+                - link "🏆 Motor Sports" [ref=e375] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e376]: 🏆
+                  - generic [ref=e377]: Motor Sports
+              - listitem [ref=e378]:
+                - link "🏆 Snooker" [ref=e379] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e380]: 🏆
+                  - generic [ref=e381]: Snooker
+              - listitem [ref=e382]:
+                - link "🏆 Darts" [ref=e383] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e384]: 🏆
+                  - generic [ref=e385]: Darts
+              - listitem [ref=e386]:
+                - link "🏆 Esoccer" [ref=e387] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e388]: 🏆
+                  - generic [ref=e389]: Esoccer
+              - listitem [ref=e390]:
+                - link "🏎 Ice Hockey" [ref=e391] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e392]: 🏎
+                  - generic [ref=e393]: Ice Hockey
+              - listitem [ref=e394]:
+                - link "🏆 Boat Racing" [ref=e395] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e396]: 🏆
+                  - generic [ref=e397]: Boat Racing
+              - listitem [ref=e398]:
+                - link "🥊 Futsal" [ref=e399] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e400]: 🥊
+                  - generic [ref=e401]: Futsal
+              - listitem [ref=e402]:
+                - link "🏛 Politics" [ref=e403] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e404]: 🏛
+                  - generic [ref=e405]: Politics
+              - listitem [ref=e406]:
+                - link "🏆 Kabaddi" [ref=e407] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e408]: 🏆
+                  - generic [ref=e409]: Kabaddi
+            - link [ref=e410] [cursor=pointer]:
+              - /url: "#"
+          - generic [ref=e412]:
+            - generic [ref=e413]:
+              - generic [ref=e414]:
+                - generic [ref=e415]: 🏏
+                - generic [ref=e416]: Cricket
+              - generic [ref=e417]: "1"
+              - generic [ref=e418]: X
+              - generic [ref=e419]: "2"
+            - generic [ref=e420]:
+              - generic [ref=e421]:
+                - text: 📺
+                - generic [ref=e422]:
+                  - generic [ref=e423]:
+                    - generic [ref=e424]: Live
+                    - link [ref=e427] [cursor=pointer]:
+                      - /url: "#"
+                      - paragraph [ref=e428]: Super Over2
+                    - generic [ref=e429]:
+                      - generic [ref=e430]: F1
+                      - generic [ref=e431]: F
+                      - generic [ref=e432]: BM
+                      - generic [ref=e433]: 📺
+                  - generic [ref=e435]:
+                    - generic [ref=e436] [cursor=pointer]: —
+                    - generic [ref=e438] [cursor=pointer]: —
+                  - generic [ref=e440]:
+                    - generic [ref=e441] [cursor=pointer]: —
+                    - generic [ref=e443] [cursor=pointer]: —
+                  - generic [ref=e445]:
+                    - generic [ref=e446] [cursor=pointer]: —
+                    - generic [ref=e448] [cursor=pointer]: —
+              - generic [ref=e450]:
+                - text: 📺
+                - generic [ref=e451]:
+                  - generic [ref=e452]:
+                    - generic [ref=e453]: Live
+                    - link [ref=e456] [cursor=pointer]:
+                      - /url: "#"
+                      - paragraph [ref=e457]: Sri Lanka v India
+                      - paragraph [ref=e458]: (Test Matches)
+                    - generic [ref=e459]:
+                      - generic [ref=e460]: F1
+                      - generic [ref=e461]: F
+                      - generic [ref=e462]: BM
+                      - generic [ref=e463]: 📺
+                  - generic [ref=e465]:
+                    - generic [ref=e466] [cursor=pointer]: "75"
+                    - generic [ref=e468] [cursor=pointer]: "90"
+                  - generic [ref=e470]:
+                    - generic [ref=e471] [cursor=pointer]: "9.8"
+                    - generic [ref=e473] [cursor=pointer]: "10"
+                  - generic [ref=e475]:
+                    - generic [ref=e476] [cursor=pointer]: "1.12"
+                    - generic [ref=e478] [cursor=pointer]: "1.13"
+              - generic [ref=e480]:
+                - text: 📺
+                - generic [ref=e481]:
+                  - generic [ref=e482]:
+                    - generic [ref=e483]: Live
+                    - link [ref=e486] [cursor=pointer]:
+                      - /url: "#"
+                      - paragraph [ref=e487]: South Africa A v Bangladesh A
+                      - paragraph [ref=e488]: (Bangladesh A tour of South Africa TEST)
+                    - generic [ref=e489]:
+                      - generic [ref=e490]: F1
+                      - generic [ref=e491]: F
+                      - generic [ref=e492]: 📺
+                  - generic:
+                    - generic: —
+                    - generic: —
+                  - generic [ref=e494]:
+                    - generic [ref=e495] [cursor=pointer]: —
+                    - generic [ref=e497] [cursor=pointer]: —
+                  - generic:
+                    - generic: —
+                    - generic: —
+              - generic [ref=e499]:
+                - text: 📺
+                - generic [ref=e500]:
+                  - generic [ref=e501]:
+                    - generic [ref=e502]: Live
+                    - link [ref=e505] [cursor=pointer]:
+                      - /url: "#"
+                      - paragraph [ref=e506]: Alleppey Ripples v Aries Kollam Sailors
+                      - paragraph [ref=e507]: (Kerala Cricket League 2026)
+                    - generic [ref=e508]:
+                      - generic [ref=e509]: F1
+                      - generic [ref=e510]: F
+                      - generic [ref=e511]: BM
+                      - generic [ref=e512]: 📺
+                  - generic:
+                    - generic: —
+                    - generic: —
+                  - generic [ref=e514]:
+                    - generic [ref=e515] [cursor=pointer]: —
+                    - generic [ref=e517] [cursor=pointer]: —
+                  - generic:
+                    - generic: —
+                    - generic: —
+              - generic [ref=e519]:
+                - text: 📺
+                - generic [ref=e520]:
+                  - generic [ref=e521]:
+                    - generic [ref=e522]: Live
+                    - link [ref=e525] [cursor=pointer]:
+                      - /url: "#"
+                      - paragraph [ref=e526]: Lucknow Super Giants (e) - Gujarat Titans (e)
+                      - paragraph [ref=e527]: (Dim Cricket League (1 over))
+                    - generic [ref=e528]:
+                      - generic [ref=e529]: e
+                      - generic [ref=e530]: 📺
+                  - generic:
+                    - generic: —
+                    - generic: —
+                  - generic [ref=e532]:
+                    - generic [ref=e533] [cursor=pointer]: —
+                    - generic [ref=e535] [cursor=pointer]: —
+                  - generic:
+                    - generic: —
+                    - generic: —
+              - generic [ref=e537]:
+                - text: 📺
+                - generic [ref=e538]:
+                  - generic [ref=e539]:
+                    - generic [ref=e540]: Live
+                    - link [ref=e543] [cursor=pointer]:
+                      - /url: "#"
+                      - paragraph [ref=e544]: Kolkata Knight Riders (e) - Lucknow Super Giants (e)
+                      - paragraph [ref=e545]: (Dim Cricket League (1 over))
+                    - generic [ref=e546]:
+                      - generic [ref=e547]: e
+                      - generic [ref=e548]: 📺
+                  - generic:
+                    - generic: —
+                    - generic: —
+                  - generic [ref=e550]:
+                    - generic [ref=e551] [cursor=pointer]: —
+                    - generic [ref=e553] [cursor=pointer]: —
+                  - generic:
+                    - generic: —
+                    - generic: —
+              - generic [ref=e555]:
+                - text: 📺
+                - generic [ref=e556]:
+                  - generic [ref=e557]:
+                    - generic [ref=e558]: Live
+                    - link [ref=e561] [cursor=pointer]:
+                      - /url: "#"
+                      - paragraph [ref=e562]: Royal Challengers Bengaluru (e) - Lucknow Super Giants (e)
+                      - paragraph [ref=e563]: (Dim Cricket League (1 over))
+                    - generic [ref=e564]:
+                      - generic [ref=e565]: e
+                      - generic [ref=e566]: 📺
+                  - generic:
+                    - generic: —
+                    - generic: —
+                  - generic [ref=e568]:
+                    - generic [ref=e569] [cursor=pointer]: —
+                    - generic [ref=e571] [cursor=pointer]: —
+                  - generic:
+                    - generic: —
+                    - generic: —
+              - generic [ref=e573]:
+                - text: 📺
+                - generic [ref=e574]:
+                  - generic [ref=e575]:
+                    - generic [ref=e576]: Live
+                    - link [ref=e579] [cursor=pointer]:
+                      - /url: "#"
+                      - paragraph [ref=e580]: Kanpur Superstar v Meerut Mavericks
+                      - paragraph [ref=e581]: (Uttar Pradesh League, 2026)
+                    - generic [ref=e582]:
+                      - generic [ref=e583]: F1
+                      - generic [ref=e584]: F
+                      - generic [ref=e585]: BM
+                      - generic [ref=e586]: 📺
+                  - generic:
+                    - generic: —
+                    - generic: —
+                  - generic [ref=e588]:
+                    - generic [ref=e589] [cursor=pointer]: —
+                    - generic [ref=e591] [cursor=pointer]: —
+                  - generic:
+                    - generic: —
+                    - generic: —
+              - generic [ref=e593]:
+                - text: 📺
+                - generic [ref=e594]:
+                  - generic [ref=e595]:
+                    - generic [ref=e596]: Live
+                    - link [ref=e599] [cursor=pointer]:
+                      - /url: "#"
+                      - paragraph [ref=e600]: Adelaide Strikers A v Bangladesh HP
+                      - paragraph [ref=e601]: (Top End T20 Series 2026)
+                    - generic [ref=e602]:
+                      - generic [ref=e603]: F1
+                      - generic [ref=e604]: BM
+                      - generic [ref=e605]: 📺
+                  - generic:
+                    - generic: —
+                    - generic: —
+                  - generic [ref=e607]:
+                    - generic [ref=e608] [cursor=pointer]: —
+                    - generic [ref=e610] [cursor=pointer]: —
+                  - generic:
+                    - generic: —
+                    - generic: —
+              - generic [ref=e613]:
+                - generic [ref=e614]:
+                  - generic [ref=e615]:
+                    - paragraph [ref=e616]: 05 Aug
+                    - paragraph [ref=e617]: 06:30
+                  - link [ref=e619] [cursor=pointer]:
+                    - /url: "#"
+                    - paragraph [ref=e620]: Caribbean Premier League
+                    - paragraph [ref=e621]: (Caribbean Premier League)
+                  - generic [ref=e622]: BM
+                - generic:
+                  - generic: —
+                  - generic: —
+                - generic [ref=e624]:
+                  - generic [ref=e625] [cursor=pointer]: —
+                  - generic [ref=e627] [cursor=pointer]: —
+                - generic:
+                  - generic: —
+                  - generic: —
+              - generic [ref=e629]:
+                - text: 📺
+                - generic [ref=e630]:
+                  - generic [ref=e631]:
+                    - generic [ref=e632]:
+                      - paragraph [ref=e633]: Today
+                      - paragraph [ref=e634]: 14:57
+                    - link [ref=e636] [cursor=pointer]:
+                      - /url: "#"
+                      - paragraph [ref=e637]: Kolkata Knight Riders (e) - Chennai Super Kings (e)
+                      - paragraph [ref=e638]: (Dim Cricket League (1 over))
+                    - generic [ref=e639]:
+                      - generic [ref=e640]: e
+                      - generic [ref=e641]: 📺
+                  - generic:
+                    - generic: —
+                    - generic: —
+                  - generic [ref=e643]:
+                    - generic [ref=e644] [cursor=pointer]: —
+                    - generic [ref=e646] [cursor=pointer]: —
+                  - generic:
+                    - generic: —
+                    - generic: —
+              - generic [ref=e648]:
+                - text: 📺
+                - generic [ref=e649]:
+                  - generic [ref=e650]:
+                    - generic [ref=e651]:
+                      - paragraph [ref=e652]: Today
+                      - paragraph [ref=e653]: 14:57
+                    - link [ref=e655] [cursor=pointer]:
+                      - /url: "#"
+                      - paragraph [ref=e656]: Sunrisers Hyderabad (e) - Delhi Capitals (e)
+                      - paragraph [ref=e657]: (Dim Cricket League (1 over))
+                    - generic [ref=e658]:
+                      - generic [ref=e659]: e
+                      - generic [ref=e660]: 📺
+                  - generic:
+                    - generic: —
+                    - generic: —
+                  - generic [ref=e662]:
+                    - generic [ref=e663] [cursor=pointer]: —
+                    - generic [ref=e665] [cursor=pointer]: —
+                  - generic:
+                    - generic: —
+                    - generic: —
+              - generic [ref=e668]:
+                - generic [ref=e669]:
+                  - generic [ref=e670]:
+                    - paragraph [ref=e671]: Today
+                    - paragraph [ref=e672]: 18:45
+                  - link [ref=e674] [cursor=pointer]:
+                    - /url: "#"
+                    - paragraph [ref=e675]: Trivandrum Royals v Thrissur Titans
+                    - paragraph [ref=e676]: (Kerala Cricket League 2026)
+                  - generic [ref=e677]:
+                    - generic [ref=e678]: F1
+                    - generic [ref=e679]: F
+                - generic:
+                  - generic: —
+                  - generic: —
+                - generic [ref=e680]:
+                  - generic [ref=e681] [cursor=pointer]: —
+                  - generic [ref=e683] [cursor=pointer]: —
+                - generic:
+                  - generic: —
+                  - generic: —
+              - generic [ref=e686]:
+                - generic [ref=e687]:
+                  - generic [ref=e688]:
+                    - paragraph [ref=e689]: Today
+                    - paragraph [ref=e690]: 19:00
+                  - link [ref=e692] [cursor=pointer]:
+                    - /url: "#"
+                    - paragraph [ref=e693]: Purani Delhi 6 v East Delhi Riders
+                    - paragraph [ref=e694]: (Delhi Premier League 2026)
+                  - generic [ref=e695]:
+                    - generic [ref=e696]: F1
+                    - generic [ref=e697]: F
+                - generic:
+                  - generic: —
+                  - generic: —
+                - generic [ref=e698]:
+                  - generic [ref=e699] [cursor=pointer]: —
+                  - generic [ref=e701] [cursor=pointer]: —
+                - generic:
+                  - generic: —
+                  - generic: —
+              - generic [ref=e704]:
+                - generic [ref=e705]:
+                  - generic [ref=e706]:
+                    - paragraph [ref=e707]: Today
+                    - paragraph [ref=e708]: 19:30
+                  - link [ref=e710] [cursor=pointer]:
+                    - /url: "#"
+                    - paragraph [ref=e711]: Lucknow Falcons v Kashi Rudras
+                    - paragraph [ref=e712]: (Uttar Pradesh League, 2026)
+                  - generic [ref=e713]: F1
+                - generic:
+                  - generic: —
+                  - generic: —
+                - generic [ref=e715]:
+                  - generic [ref=e716] [cursor=pointer]: —
+                  - generic [ref=e718] [cursor=pointer]: —
+                - generic:
+                  - generic: —
+                  - generic: —
+              - generic [ref=e721]:
+                - generic [ref=e722]:
+                  - generic [ref=e723]:
+                    - paragraph [ref=e724]: Tomorrow
+                    - paragraph [ref=e725]: 04:30
+                  - link [ref=e727] [cursor=pointer]:
+                    - /url: "#"
+                    - paragraph [ref=e728]: Antigua and Barbuda Falc v Barbados Tridents
+                    - paragraph [ref=e729]: (Caribbean Premier League)
+                  - generic [ref=e730]:
+                    - generic [ref=e731]: F1
+                    - generic [ref=e732]: F
+                    - generic [ref=e733]: BM
+                - generic [ref=e734]:
+                  - generic [ref=e735] [cursor=pointer]: "2.34"
+                  - generic [ref=e737] [cursor=pointer]: "2.4"
+                - generic [ref=e739]:
+                  - generic [ref=e740] [cursor=pointer]: —
+                  - generic [ref=e742] [cursor=pointer]: —
+                - generic [ref=e744]:
+                  - generic [ref=e745] [cursor=pointer]: "1.72"
+                  - generic [ref=e747] [cursor=pointer]: "1.74"
+              - generic [ref=e750]:
+                - generic [ref=e751]:
+                  - generic [ref=e752]:
+                    - paragraph [ref=e753]: Thursday
+                    - paragraph [ref=e754]: 04:30
+                  - link [ref=e756] [cursor=pointer]:
+                    - /url: "#"
+                    - paragraph [ref=e757]: Trinbago Knight Riders v St. Lucia Kings
+                    - paragraph [ref=e758]: (Caribbean Premier League)
+                  - generic [ref=e759]: F1
+                - generic [ref=e761]:
+                  - generic [ref=e762] [cursor=pointer]: "1.51"
+                  - generic [ref=e764] [cursor=pointer]: "1.67"
+                - generic [ref=e766]:
+                  - generic [ref=e767] [cursor=pointer]: —
+                  - generic [ref=e769] [cursor=pointer]: —
+                - generic [ref=e771]:
+                  - generic [ref=e772] [cursor=pointer]: "2.48"
+                  - generic [ref=e774] [cursor=pointer]: "2.98"
+              - generic [ref=e777]:
+                - generic [ref=e778]:
+                  - generic [ref=e779]:
+                    - paragraph [ref=e780]: Thursday
+                    - paragraph [ref=e781]: 15:30
+                  - link [ref=e783] [cursor=pointer]:
+                    - /url: "#"
+                    - paragraph [ref=e784]: England v Pakistan
+                    - paragraph [ref=e785]: (Test Matches)
+                  - generic [ref=e786]: F1
+                - generic [ref=e788]:
+                  - generic [ref=e789] [cursor=pointer]: "1.39"
+                  - generic [ref=e791] [cursor=pointer]: "1.41"
+                - generic [ref=e793]:
+                  - generic [ref=e794] [cursor=pointer]: "6"
+                  - generic [ref=e796] [cursor=pointer]: "6.2"
+                - generic [ref=e798]:
+                  - generic [ref=e799] [cursor=pointer]: "8.2"
+                  - generic [ref=e801] [cursor=pointer]: "8.8"
+              - generic [ref=e804]:
+                - generic [ref=e805]:
+                  - generic [ref=e806]:
+                    - paragraph [ref=e807]: Friday
+                    - paragraph [ref=e808]: 04:30
+                  - link [ref=e810] [cursor=pointer]:
+                    - /url: "#"
+                    - paragraph [ref=e811]: St. Kitts and Nevis Patriots v Jamaica Kingsmen
+                    - paragraph [ref=e812]: (Caribbean Premier League)
+                - generic [ref=e813]:
+                  - generic [ref=e814] [cursor=pointer]: "1.86"
+                  - generic [ref=e816] [cursor=pointer]: "2.36"
+                - generic [ref=e818]:
+                  - generic [ref=e819] [cursor=pointer]: —
+                  - generic [ref=e821] [cursor=pointer]: —
+                - generic [ref=e823]:
+                  - generic [ref=e824] [cursor=pointer]: "1.74"
+                  - generic [ref=e826] [cursor=pointer]: "2.16"
+          - generic [ref=e828]:
+            - link [ref=e829] [cursor=pointer]:
+              - /url: "#"
+              - heading "Our Casino" [level=4] [ref=e830]
+            - generic [ref=e833]:
+              - list [ref=e834]:
+                - listitem [ref=e835]:
+                  - link [ref=e836] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e838]:
+                  - link [ref=e839] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e841]:
+                  - link [ref=e842] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e844]:
+                  - link [ref=e845] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e847]:
+                  - link [ref=e848] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e850]:
+                  - link [ref=e851] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e853]:
+                  - link [ref=e854] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e856]:
+                  - link [ref=e857] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e859]:
+                  - link [ref=e860] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e862]:
+                  - link [ref=e863] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e865]:
+                  - link [ref=e866] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e868]:
+                  - link [ref=e869] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e871]:
+                  - link [ref=e872] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e874]:
+                  - link [ref=e875] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e877]:
+                  - link [ref=e878] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e880]:
+                  - link [ref=e881] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e883]:
+                  - link [ref=e884] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e886]:
+                  - link [ref=e887] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e889]:
+                  - link [ref=e890] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e892]:
+                  - link [ref=e893] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e895]:
+                  - link [ref=e896] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e898]:
+                  - link [ref=e899] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e901]:
+                  - link [ref=e902] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e904]:
+                  - link [ref=e905] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e907]:
+                  - link [ref=e908] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e910]:
+                  - link [ref=e911] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e913]:
+                  - link [ref=e914] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e916]:
+                  - link [ref=e917] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e919]:
+                  - link [ref=e920] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e922]:
+                  - link [ref=e923] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e925]:
+                  - link [ref=e926] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e928]:
+                  - link [ref=e929] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e931]:
+                  - link [ref=e932] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e934]:
+                  - link [ref=e935] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e937]:
+                  - link [ref=e938] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e940]:
+                  - link [ref=e941] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e943]:
+                  - link [ref=e944] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e946]:
+                  - link [ref=e947] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e949]:
+                  - link [ref=e950] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e952]:
+                  - link [ref=e953] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e955]:
+                  - link [ref=e956] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e958]:
+                  - link [ref=e959] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e961]:
+                  - link [ref=e962] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e964]:
+                  - link [ref=e965] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e967]:
+                  - link [ref=e968] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e970]:
+                  - link [ref=e971] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e973]:
+                  - link [ref=e974] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e976]:
+                  - link [ref=e977] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e979]:
+                  - link [ref=e980] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e982]:
+                  - link [ref=e983] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e985]:
+                  - link [ref=e986] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e988]:
+                  - link [ref=e989] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e991]:
+                  - link [ref=e992] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e994]:
+                  - link [ref=e995] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e997]: Item 13 of 18
+          - generic [ref=e998]:
+            - heading "New Games" [level=4] [ref=e999]
+            - generic [ref=e1002]:
+              - list [ref=e1003]:
+                - listitem [ref=e1004]:
+                  - link [ref=e1005] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e1007]:
+                  - link [ref=e1008] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e1010]:
+                  - link [ref=e1011] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e1013]:
+                  - link [ref=e1014] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e1016]:
+                  - link [ref=e1017] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e1019]:
+                  - link [ref=e1020] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e1022]: Item 1 of 2
+        - contentinfo [ref=e1023]:
+          - generic [ref=e1024]:
+            - generic [ref=e1025]: 24X7 Support
+            - generic [ref=e1027]:
+              - link [ref=e1028] [cursor=pointer]:
+                - /url: https://t.me/officialtaj777exch
+                - img "telegram" [ref=e1029]
+              - link [ref=e1030] [cursor=pointer]:
+                - /url: https://x.com/TAJ777_EXCH
+                - img "twitter" [ref=e1031]
+          - list [ref=e1033]:
+            - listitem [ref=e1034]:
+              - link "FAQ" [ref=e1035] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e1036]:
+              - link "Rules" [ref=e1037] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e1038]:
+              - link "Terms and Conditions" [ref=e1039] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e1040]:
+              - link "Responsible Gaming" [ref=e1041] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e1042]:
+              - link "AML Policy" [ref=e1043] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e1044]:
+              - link "KYC Policy" [ref=e1045] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=e1046]:
+            - generic [ref=e1047]:
+              - generic [ref=e1048]:
+                - img "ssl" [ref=e1050]
+                - generic [ref=e1051]:
+                  - text: 100% SAFE
+                  - generic [ref=e1052]: Protected connection and encrypted data
+              - generic [ref=e1053]:
+                - button [ref=e1054] [cursor=pointer]:
+                  - img "18plus" [ref=e1055]
+                - link [ref=e1056] [cursor=pointer]:
+                  - /url: https://www.gamcare.org.uk/
+                  - img "gamecare" [ref=e1057]
+                - link [ref=e1058] [cursor=pointer]:
+                  - /url: https://www.gamblingtherapy.org/en
+                  - img "gamblingtherapy" [ref=e1059]
+                - link [ref=e1060] [cursor=pointer]:
+                  - /url: https://www.begambleaware.org/
+                  - img "begambleaware" [ref=e1061]
+                - link [ref=e1062] [cursor=pointer]:
+                  - /url: https://www.gamstop.co.uk/
+                  - img "gamstop" [ref=e1063]
+            - generic [ref=e1064]: This website is operated by Seven Investments America N.V., registered in Curaçao under the number 152581, with the address at Zuikertuintjeweg Z/N (Zuikertuin Tower), Curaçao, licensed and regulated by the Governor of Curaçao for the provision of sports betting and casino.
+          - generic [ref=e1065]: © Copyright 2020. All Rights Reserved.
+      - generic [ref=e1066]:
+        - generic [ref=e1067]:
+          - generic [ref=e1068]: Upcoming Fixure
+          - generic [ref=e1070]:
+            - list [ref=e1071]:
+              - listitem [ref=e1072]:
+                - link [ref=e1073] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1074]:
+                    - generic [ref=e1075]:
+                      - generic [ref=e1076]: 🏆
+                      - text: Stephen Maguire - Artemijs Zizins
+                    - generic [ref=e1077]: 25/08/2026 11:30:00 (UTC+05:30)
+              - listitem [ref=e1078]:
+                - link [ref=e1079] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1080]:
+                    - generic [ref=e1081]:
+                      - generic [ref=e1082]: 🏓
+                      - text: Dmitry Kuzmenko - Oleksandr Ziakun
+                    - generic [ref=e1083]: 25/08/2026 12:00:00 (UTC+05:30)
+              - listitem [ref=e1084]:
+                - link [ref=e1085] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1086]:
+                    - generic [ref=e1087]:
+                      - generic [ref=e1088]: 🏀
+                      - text: National Taiwan Sport University - Fu Jen Catholic University
+                    - generic [ref=e1089]: 25/08/2026 13:00:00 (UTC+05:30)
+              - listitem [ref=e1090]:
+                - link [ref=e1091] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1092]:
+                    - generic [ref=e1093]:
+                      - generic [ref=e1094]: 🐎
+                      - text: Shepparton
+                    - generic [ref=e1095]: 25/08/2026 13:34:00 (UTC+05:30)
+              - listitem [ref=e1096]:
+                - link [ref=e1097] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1098]:
+                    - generic [ref=e1099]:
+                      - generic [ref=e1100]: 🐕
+                      - text: Townsville
+                    - generic [ref=e1101]: 25/08/2026 14:46:00 (UTC+05:30)
+              - listitem [ref=e1102]:
+                - link [ref=e1103] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1104]:
+                    - generic [ref=e1105]:
+                      - generic [ref=e1106]: 🏀
+                      - text: Xinjiang W - Hebei Win Power W
+                    - generic [ref=e1107]: 25/08/2026 15:00:00 (UTC+05:30)
+              - listitem [ref=e1108]:
+                - link [ref=e1109] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1110]:
+                    - generic [ref=e1111]:
+                      - generic [ref=e1112]: 🎾
+                      - text: Loffhagen v A Gray
+                    - generic [ref=e1113]: 25/08/2026 16:40:00 (UTC+05:30)
+              - listitem [ref=e1114]:
+                - link [ref=e1115] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1116]:
+                    - generic [ref=e1117]:
+                      - generic [ref=e1118]: 🏐
+                      - text: Romania W - Belgium W
+                    - generic [ref=e1119]: 25/08/2026 17:00:00 (UTC+05:30)
+              - listitem [ref=e1120]:
+                - link [ref=e1121] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1122]:
+                    - generic [ref=e1123]:
+                      - generic [ref=e1124]: ⚽
+                      - text: Queens Park Rangers U21 v Hull City U21
+                    - generic [ref=e1125]: 25/08/2026 18:30:00 (UTC+05:30)
+              - listitem [ref=e1126]:
+                - link [ref=e1127] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1128]:
+                    - generic [ref=e1129]:
+                      - generic [ref=e1130]: 🎮
+                      - text: Pcific Esports - Su Esports
+                    - generic [ref=e1131]: 25/08/2026 20:30:00 (UTC+05:30)
+              - listitem [ref=e1132]:
+                - link [ref=e1133] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1134]:
+                    - generic [ref=e1135]:
+                      - generic [ref=e1136]: 🐕
+                      - text: Romford
+                    - generic [ref=e1137]: 25/08/2026 19:31:00 (UTC+05:30)
+              - listitem [ref=e1138]:
+                - link [ref=e1139] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1140]:
+                    - generic [ref=e1141]:
+                      - generic [ref=e1142]: ⚽
+                      - text: Unirea Slobozia v FC Metaloglobus Bucuresti
+                    - generic [ref=e1143]: 25/08/2026 21:30:00 (UTC+05:30)
+              - listitem [ref=e1144]:
+                - link [ref=e1145] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1146]:
+                    - generic [ref=e1147]:
+                      - generic [ref=e1148]: 🏀
+                      - text: Iserlohn Kangaroos - ETB Miners Essen
+                    - generic [ref=e1149]: 25/08/2026 22:30:00 (UTC+05:30)
+              - listitem [ref=e1150]:
+                - link [ref=e1151] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1152]:
+                    - generic [ref=e1153]:
+                      - generic [ref=e1154]: 🎾
+                      - text: Bot Van de Zandschulp v Ado Vallejo
+                    - generic [ref=e1155]: 25/08/2026 23:30:00 (UTC+05:30)
+              - listitem [ref=e1156]:
+                - link [ref=e1157] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1158]:
+                    - generic [ref=e1159]:
+                      - generic [ref=e1160]: 🏆
+                      - text: Stephen Maguire - Artemijs Zizins
+                    - generic [ref=e1161]: 25/08/2026 11:30:00 (UTC+05:30)
+              - listitem [ref=e1162]:
+                - link [ref=e1163] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1164]:
+                    - generic [ref=e1165]:
+                      - generic [ref=e1166]: 🏓
+                      - text: Dmitry Kuzmenko - Oleksandr Ziakun
+                    - generic [ref=e1167]: 25/08/2026 12:00:00 (UTC+05:30)
+              - listitem [ref=e1168]:
+                - link [ref=e1169] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1170]:
+                    - generic [ref=e1171]:
+                      - generic [ref=e1172]: 🏀
+                      - text: National Taiwan Sport University - Fu Jen Catholic University
+                    - generic [ref=e1173]: 25/08/2026 13:00:00 (UTC+05:30)
+              - listitem [ref=e1174]:
+                - link [ref=e1175] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1176]:
+                    - generic [ref=e1177]:
+                      - generic [ref=e1178]: 🐎
+                      - text: Shepparton
+                    - generic [ref=e1179]: 25/08/2026 13:34:00 (UTC+05:30)
+              - listitem [ref=e1180]:
+                - link [ref=e1181] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1182]:
+                    - generic [ref=e1183]:
+                      - generic [ref=e1184]: 🐕
+                      - text: Townsville
+                    - generic [ref=e1185]: 25/08/2026 14:46:00 (UTC+05:30)
+              - listitem [ref=e1186]:
+                - link [ref=e1187] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1188]:
+                    - generic [ref=e1189]:
+                      - generic [ref=e1190]: 🏀
+                      - text: Xinjiang W - Hebei Win Power W
+                    - generic [ref=e1191]: 25/08/2026 15:00:00 (UTC+05:30)
+              - listitem [ref=e1192]:
+                - link [ref=e1193] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1194]:
+                    - generic [ref=e1195]:
+                      - generic [ref=e1196]: 🎾
+                      - text: Loffhagen v A Gray
+                    - generic [ref=e1197]: 25/08/2026 16:40:00 (UTC+05:30)
+              - listitem [ref=e1198]:
+                - link [ref=e1199] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1200]:
+                    - generic [ref=e1201]:
+                      - generic [ref=e1202]: 🏐
+                      - text: Romania W - Belgium W
+                    - generic [ref=e1203]: 25/08/2026 17:00:00 (UTC+05:30)
+              - listitem [ref=e1204]:
+                - link [ref=e1205] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1206]:
+                    - generic [ref=e1207]:
+                      - generic [ref=e1208]: ⚽
+                      - text: Queens Park Rangers U21 v Hull City U21
+                    - generic [ref=e1209]: 25/08/2026 18:30:00 (UTC+05:30)
+              - listitem [ref=e1210]:
+                - link [ref=e1211] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1212]:
+                    - generic [ref=e1213]:
+                      - generic [ref=e1214]: 🎮
+                      - text: Pcific Esports - Su Esports
+                    - generic [ref=e1215]: 25/08/2026 20:30:00 (UTC+05:30)
+              - listitem [ref=e1216]:
+                - link [ref=e1217] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1218]:
+                    - generic [ref=e1219]:
+                      - generic [ref=e1220]: 🐕
+                      - text: Romford
+                    - generic [ref=e1221]: 25/08/2026 19:31:00 (UTC+05:30)
+              - listitem [ref=e1222]:
+                - link [ref=e1223] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1224]:
+                    - generic [ref=e1225]:
+                      - generic [ref=e1226]: ⚽
+                      - text: Unirea Slobozia v FC Metaloglobus Bucuresti
+                    - generic [ref=e1227]: 25/08/2026 21:30:00 (UTC+05:30)
+              - listitem [ref=e1228]:
+                - link "🏀 Iserlohn Kangaroos - ETB Miners Essen 25/08/2026 22:30:00 (UTC+05:30)" [ref=e1229] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1230]:
+                    - generic [ref=e1231]:
+                      - generic [ref=e1232]: 🏀
+                      - text: Iserlohn Kangaroos - ETB Miners Essen
+                    - generic [ref=e1233]: 25/08/2026 22:30:00 (UTC+05:30)
+              - listitem [ref=e1234]:
+                - link [ref=e1235] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1236]:
+                    - generic [ref=e1237]:
+                      - generic [ref=e1238]: 🎾
+                      - text: Bot Van de Zandschulp v Ado Vallejo
+                    - generic [ref=e1239]: 25/08/2026 23:30:00 (UTC+05:30)
+              - listitem [ref=e1240]:
+                - link [ref=e1241] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1242]:
+                    - generic [ref=e1243]:
+                      - generic [ref=e1244]: 🏆
+                      - text: Stephen Maguire - Artemijs Zizins
+                    - generic [ref=e1245]: 25/08/2026 11:30:00 (UTC+05:30)
+              - listitem [ref=e1246]:
+                - link [ref=e1247] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1248]:
+                    - generic [ref=e1249]:
+                      - generic [ref=e1250]: 🏓
+                      - text: Dmitry Kuzmenko - Oleksandr Ziakun
+                    - generic [ref=e1251]: 25/08/2026 12:00:00 (UTC+05:30)
+              - listitem [ref=e1252]:
+                - link [ref=e1253] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1254]:
+                    - generic [ref=e1255]:
+                      - generic [ref=e1256]: 🏀
+                      - text: National Taiwan Sport University - Fu Jen Catholic University
+                    - generic [ref=e1257]: 25/08/2026 13:00:00 (UTC+05:30)
+              - listitem [ref=e1258]:
+                - link [ref=e1259] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1260]:
+                    - generic [ref=e1261]:
+                      - generic [ref=e1262]: 🐎
+                      - text: Shepparton
+                    - generic [ref=e1263]: 25/08/2026 13:34:00 (UTC+05:30)
+              - listitem [ref=e1264]:
+                - link [ref=e1265] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1266]:
+                    - generic [ref=e1267]:
+                      - generic [ref=e1268]: 🐕
+                      - text: Townsville
+                    - generic [ref=e1269]: 25/08/2026 14:46:00 (UTC+05:30)
+              - listitem [ref=e1270]:
+                - link [ref=e1271] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1272]:
+                    - generic [ref=e1273]:
+                      - generic [ref=e1274]: 🏀
+                      - text: Xinjiang W - Hebei Win Power W
+                    - generic [ref=e1275]: 25/08/2026 15:00:00 (UTC+05:30)
+              - listitem [ref=e1276]:
+                - link [ref=e1277] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1278]:
+                    - generic [ref=e1279]:
+                      - generic [ref=e1280]: 🎾
+                      - text: Loffhagen v A Gray
+                    - generic [ref=e1281]: 25/08/2026 16:40:00 (UTC+05:30)
+              - listitem [ref=e1282]:
+                - link [ref=e1283] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1284]:
+                    - generic [ref=e1285]:
+                      - generic [ref=e1286]: 🏐
+                      - text: Romania W - Belgium W
+                    - generic [ref=e1287]: 25/08/2026 17:00:00 (UTC+05:30)
+              - listitem [ref=e1288]:
+                - link [ref=e1289] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1290]:
+                    - generic [ref=e1291]:
+                      - generic [ref=e1292]: ⚽
+                      - text: Queens Park Rangers U21 v Hull City U21
+                    - generic [ref=e1293]: 25/08/2026 18:30:00 (UTC+05:30)
+              - listitem [ref=e1294]:
+                - link [ref=e1295] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1296]:
+                    - generic [ref=e1297]:
+                      - generic [ref=e1298]: 🎮
+                      - text: Pcific Esports - Su Esports
+                    - generic [ref=e1299]: 25/08/2026 20:30:00 (UTC+05:30)
+              - listitem [ref=e1300]:
+                - link [ref=e1301] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1302]:
+                    - generic [ref=e1303]:
+                      - generic [ref=e1304]: 🐕
+                      - text: Romford
+                    - generic [ref=e1305]: 25/08/2026 19:31:00 (UTC+05:30)
+              - listitem [ref=e1306]:
+                - link [ref=e1307] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1308]:
+                    - generic [ref=e1309]:
+                      - generic [ref=e1310]: ⚽
+                      - text: Unirea Slobozia v FC Metaloglobus Bucuresti
+                    - generic [ref=e1311]: 25/08/2026 21:30:00 (UTC+05:30)
+              - listitem [ref=e1312]:
+                - link [ref=e1313] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1314]:
+                    - generic [ref=e1315]:
+                      - generic [ref=e1316]: 🏀
+                      - text: Iserlohn Kangaroos - ETB Miners Essen
+                    - generic [ref=e1317]: 25/08/2026 22:30:00 (UTC+05:30)
+              - listitem [ref=e1318]:
+                - link [ref=e1319] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1320]:
+                    - generic [ref=e1321]:
+                      - generic [ref=e1322]: 🎾
+                      - text: Bot Van de Zandschulp v Ado Vallejo
+                    - generic [ref=e1323]: 25/08/2026 23:30:00 (UTC+05:30)
+            - generic [ref=e1324]: Item 13 of 14
+        - generic [ref=e1325]:
+          - link [ref=e1327] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1330] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1333] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1336] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1339] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1342] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1345] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1348] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1351] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1354] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1357] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1360] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1363] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1366] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1369] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1372] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1375] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1378] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1381] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e1384] [cursor=pointer]:
+            - /url: "#"

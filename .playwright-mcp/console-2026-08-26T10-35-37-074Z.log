@@ -1,0 +1,31 @@
+[    1023ms] Unexpected token '<'
+[    5752ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'zkhH9vX1v8Tg33zeeyYFr6Dl38cSlc5e7Kwswyban39DCFee3uR2ik7wew5xVbNYNm1SPtYSz/nqF06XL9JuOw=='. The resource has been blocked. @ http://localhost:5050/sport:0
+[    6254ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'bmtj3rbXBaOfBR7Wi+A/2LuunM4m7qei3vYhGTncorY='. The resource has been blocked. @ http://localhost:5050/sport_files/saved_resource:0
+[    6265ms] Unexpected token '<'
+[    6547ms] Unexpected token '<'
+[    6616ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/saved_resource:4187:1
+[    6621ms] Unexpected token '<'
+[    6631ms] Unexpected token '<'
+[    6637ms] Unexpected token '<'
+[    6654ms] Unexpected token '<'
+[    6663ms] Unexpected token '<'
+[    6668ms] Unexpected token '<'
+[    6679ms] Unexpected token '<'
+[    6685ms] Unexpected token '<'
+[    6726ms] Unexpected token '<'
+[    6734ms] Unexpected token '<'
+[    7007ms] Unexpected token '<'
+[    7060ms] Unexpected token '<'
+[    7107ms] Unexpected token '<'
+[    7116ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'zkhH9vX1v8Tg33zeeyYFr6Dl38cSlc5e7Kwswyban39DCFee3uR2ik7wew5xVbNYNm1SPtYSz/nqF06XL9JuOw=='. The resource has been blocked. @ http://localhost:5050/sport_files/saved_resource:0
+[    7166ms] Unexpected token '<'
+[    7820ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/loader3.gif:0
+[    7821ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/logo.png:0
+[    7821ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/search.svg:0
+[  102023ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/speaker.svg:0
+[  102086ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/arrow-down.svg:0
+[  104271ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/telegram.png:0
+[  104335ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/twitter.png:0
+[  104354ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/ssl.png:0
+[  104386ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/18plus.png:0

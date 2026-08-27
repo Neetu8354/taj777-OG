@@ -1,0 +1,390 @@
+[     865ms] Unexpected token '<'
+[    2555ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'DHSbKWasHRrgiswO1j9SDeDzmgZanCPlc2A4gwRcP7xGnCP7rDuj2DcZ4xuHl/SknYA8RD4zK7nK+YWzpI5+YQ=='. The resource has been blocked. @ http://localhost:5050/sport:0
+[    3116ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'Yrn3CoFIizlPFhnvjTHIWZVqJBsBrvLEkRUhRjZ2y/s='. The resource has been blocked. @ http://localhost:5050/sport_files/saved_resource:0
+[    3188ms] Unexpected token '<'
+[    3837ms] Unexpected token '<'
+[    4157ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/saved_resource:4201:1
+[    4187ms] Unexpected token '<'
+[    4193ms] Unexpected token '<'
+[    4211ms] Unexpected token '<'
+[    4217ms] Unexpected token '<'
+[    4240ms] Unexpected token '<'
+[    4241ms] Unexpected token '<'
+[    4337ms] Unexpected token '<'
+[    4363ms] Unexpected token '<'
+[    4372ms] Unexpected token '<'
+[    4392ms] Unexpected token '<'
+[    4655ms] Unexpected token '<'
+[    4691ms] Unexpected token '<'
+[    4700ms] Unexpected token '<'
+[    4709ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'DHSbKWasHRrgiswO1j9SDeDzmgZanCPlc2A4gwRcP7xGnCP7rDuj2DcZ4xuHl/SknYA8RD4zK7nK+YWzpI5+YQ=='. The resource has been blocked. @ http://localhost:5050/sport_files/saved_resource:0
+[    4716ms] Unexpected token '<'
+[    6137ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'Yrn3CoFIizlPFhnvjTHIWZVqJBsBrvLEkRUhRjZ2y/s='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/saved_resource:0
+[    6155ms] Unexpected token '<'
+[    6590ms] Unexpected token '<'
+[    6605ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/saved_resource:4201:1
+[    6612ms] Unexpected token '<'
+[    6631ms] Unexpected token '<'
+[    6633ms] Unexpected token '<'
+[    6647ms] Unexpected token '<'
+[    6742ms] Unexpected token '<'
+[    6833ms] Unexpected token '<'
+[    6998ms] Unexpected token '<'
+[    7173ms] Unexpected token '<'
+[    7201ms] Unexpected token '<'
+[    7226ms] Unexpected token '<'
+[    7501ms] Unexpected token '<'
+[    7532ms] Unexpected token '<'
+[    7537ms] Unexpected token '<'
+[    7570ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'DHSbKWasHRrgiswO1j9SDeDzmgZanCPlc2A4gwRcP7xGnCP7rDuj2DcZ4xuHl/SknYA8RD4zK7nK+YWzpI5+YQ=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/saved_resource:0
+[    7576ms] Unexpected token '<'
+[    9322ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'Yrn3CoFIizlPFhnvjTHIWZVqJBsBrvLEkRUhRjZ2y/s='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/saved_resource:0
+[    9347ms] Unexpected token '<'
+[    9871ms] Unexpected token '<'
+[    9884ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/saved_resource:4201:1
+[    9891ms] Unexpected token '<'
+[    9907ms] Unexpected token '<'
+[    9915ms] Unexpected token '<'
+[    9934ms] Unexpected token '<'
+[   10064ms] Unexpected token '<'
+[   10137ms] Unexpected token '<'
+[   10444ms] Unexpected token '<'
+[   10455ms] Unexpected token '<'
+[   10482ms] Unexpected token '<'
+[   10502ms] Unexpected token '<'
+[   10817ms] Unexpected token '<'
+[   10839ms] Unexpected token '<'
+[   10839ms] Unexpected token '<'
+[   10886ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'DHSbKWasHRrgiswO1j9SDeDzmgZanCPlc2A4gwRcP7xGnCP7rDuj2DcZ4xuHl/SknYA8RD4zK7nK+YWzpI5+YQ=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/saved_resource:0
+[   10891ms] Unexpected token '<'
+[   12228ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'Yrn3CoFIizlPFhnvjTHIWZVqJBsBrvLEkRUhRjZ2y/s='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   12417ms] Unexpected token '<'
+[   12646ms] Unexpected token '<'
+[   12703ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/saved_resource:4201:1
+[   12718ms] Unexpected token '<'
+[   12808ms] Unexpected token '<'
+[   12921ms] Unexpected token '<'
+[   12941ms] Unexpected token '<'
+[   12952ms] Unexpected token '<'
+[   12984ms] Unexpected token '<'
+[   13049ms] Unexpected token '<'
+[   13200ms] Unexpected token '<'
+[   13220ms] Unexpected token '<'
+[   13271ms] Unexpected token '<'
+[   13632ms] Unexpected token '<'
+[   13638ms] Unexpected token '<'
+[   13655ms] Unexpected token '<'
+[   13692ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'DHSbKWasHRrgiswO1j9SDeDzmgZanCPlc2A4gwRcP7xGnCP7rDuj2DcZ4xuHl/SknYA8RD4zK7nK+YWzpI5+YQ=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   13701ms] Unexpected token '<'
+[   15079ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'Yrn3CoFIizlPFhnvjTHIWZVqJBsBrvLEkRUhRjZ2y/s='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   15095ms] Unexpected token '<'
+[   15675ms] Unexpected token '<'
+[   15675ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4201:1
+[   15739ms] Unexpected token '<'
+[   15740ms] Unexpected token '<'
+[   15740ms] Unexpected token '<'
+[   15808ms] Unexpected token '<'
+[   16242ms] Unexpected token '<'
+[   16356ms] Unexpected token '<'
+[   16791ms] Unexpected token '<'
+[   16807ms] Unexpected token '<'
+[   16815ms] Unexpected token '<'
+[   16834ms] Unexpected token '<'
+[   17180ms] Unexpected token '<'
+[   17185ms] Unexpected token '<'
+[   17204ms] Unexpected token '<'
+[   17240ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'DHSbKWasHRrgiswO1j9SDeDzmgZanCPlc2A4gwRcP7xGnCP7rDuj2DcZ4xuHl/SknYA8RD4zK7nK+YWzpI5+YQ=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   17248ms] Unexpected token '<'
+[   18773ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'Yrn3CoFIizlPFhnvjTHIWZVqJBsBrvLEkRUhRjZ2y/s='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   18805ms] Unexpected token '<'
+[   19106ms] Unexpected token '<'
+[   19136ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4201:1
+[   19142ms] Unexpected token '<'
+[   19299ms] Unexpected token '<'
+[   19317ms] Unexpected token '<'
+[   19339ms] Unexpected token '<'
+[   19363ms] Unexpected token '<'
+[   19365ms] Unexpected token '<'
+[   19469ms] Unexpected token '<'
+[   19581ms] Unexpected token '<'
+[   19601ms] Unexpected token '<'
+[   19650ms] Unexpected token '<'
+[   19998ms] Unexpected token '<'
+[   20004ms] Unexpected token '<'
+[   20034ms] Unexpected token '<'
+[   20067ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'DHSbKWasHRrgiswO1j9SDeDzmgZanCPlc2A4gwRcP7xGnCP7rDuj2DcZ4xuHl/SknYA8RD4zK7nK+YWzpI5+YQ=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   20073ms] Unexpected token '<'
+[   21340ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/jquery-3.5.1.min.js.download' with computed SHA-256 integrity 'Yrn3CoFIizlPFhnvjTHIWZVqJBsBrvLEkRUhRjZ2y/s='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   21375ms] Unexpected token '<'
+[   21838ms] Unexpected token '<'
+[   21839ms] ReferenceError: $ is not defined
+    at http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:4201:1
+[   22090ms] Unexpected token '<'
+[   22091ms] Unexpected token '<'
+[   22134ms] Unexpected token '<'
+[   22157ms] Unexpected token '<'
+[   22320ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/vendor3.js.download:0
+[   24575ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/vendor2.js.download:0
+[   24575ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/vendor.js.download:0
+[   24575ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/vendor6.js.download:0
+[   24576ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/vendor5.js.download:0
+[   24576ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/vendor4.js.download:0
+[   24576ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/typed.min.js.download:0
+[   26934ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/custom.js.download:0
+[   26935ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/navbar-inject.js:0
+[   26935ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sw.js.download:0
+[   26941ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/v4513226cdae34746b4dedf0b4dfa099e1781791509496' with computed SHA-512 integrity 'DHSbKWasHRrgiswO1j9SDeDzmgZanCPlc2A4gwRcP7xGnCP7rDuj2DcZ4xuHl/SknYA8RD4zK7nK+YWzpI5+YQ=='. The resource has been blocked. @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/saved_resource:0
+[   26948ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/telegram.png:0
+[   26948ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/twitter.png:0
+[   26948ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/ssl.png:0
+[   29300ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/18plus.png:0
+[   29300ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/banners/1787598384490.webp:0
+[   29300ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/banners/1787628463829.webp:0
+[   29300ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/banners/1787598250897.webp:0
+[   29300ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sidebanners/1786954620167.png:0
+[   31649ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/banners/1787428510867.webp:0
+[   31649ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/banners/1787513921448.webp:0
+[   31650ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sidebanners/1786954661225.png:0
+[   31650ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sidebanners/1786954681257.png:0
+[   31650ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sidebanners/1786956817268.png:0
+[   31650ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sidebanners/1786956834836.png:0
+[   34017ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/1786954661225.png:0
+[   34017ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/1786954681257.png:0
+[   34017ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sidebanners/1786956880596.png:0
+[   34017ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786268932607.png:0
+[   34018ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1778281410174.jpg:0
+[   34018ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786895079723.png:0
+[   36376ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786956861063.png:0
+[   36376ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786895164801.png:0
+[   36376ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786955165631.png:0
+[   36376ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/1786955062370.png:0
+[   36376ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/banners/1787553144555.webp:0
+[   36377ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/1786956817268.png:0
+[   38732ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/1786956834836.png:0
+[   38733ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/1786956880596.png:0
+[   38733ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/gamecare.png:0
+[   38733ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/arrow-down.svg:0
+[   38733ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/speaker.svg:0
+[   38733ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/arrow-down.svg:0
+[   41082ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/telegram.png:0
+[   41083ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sidebanners/1785664485511.webp:0
+[   41083ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/banners/1787599619974.webp:0
+[   41083ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sidebanners/1786955062370.png:0
+[   41083ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/banners/1787599192985.webp:0
+[   41102ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/banners/1787635044676.webp:0
+[   43451ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786268892004.png:0
+[   43451ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956798302.png:0
+[   43451ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786268932607.png:0
+[   43451ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281410174.jpg:0
+[   43451ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786895079723.png:0
+[   43459ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956861063.png:0
+[   45806ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786895164801.png:0
+[   45806ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955165631.png:0
+[   45806ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1784278232340.png:0
+[   45806ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955295865.png:0
+[   45806ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281651447.jpg:0
+[   45821ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281818727.jpg:0
+[   48167ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954620167.png:0
+[   48167ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954661225.png:0
+[   48167ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954681257.png:0
+[   48167ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956817268.png:0
+[   48167ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956834836.png:0
+[   48183ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956880596.png:0
+[   50519ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1785664485511.webp:0
+[   50519ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955062370.png:0
+[   50519ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/twitter.png:0
+[   50519ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/ssl.png:0
+[   50520ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/cdn-cgi/challenge-platform/scripts/jsd/main.js:0
+[   50535ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/18plus.png:0
+[   52886ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/gt.png:0
+[   52886ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/gamble-aware.svg:0
+[   52886ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/game-stop.png:0
+[   52886ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787598384490.webp:0
+[   52886ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786268892004.png:0
+[   52902ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787628463829.webp:0
+[   55241ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787598250897.webp:0
+[   55241ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787428510867.webp:0
+[   55241ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787513921448.webp:0
+[   55241ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787553144555.webp:0
+[   55241ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787599619974.webp:0
+[   55241ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787599192985.webp:0
+[   57582ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787635044676.webp:0
+[   57582ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786268892004.png:0
+[   57600ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956798302.png:0
+[   57600ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786268932607.png:0
+[   57600ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281410174.jpg:0
+[   57600ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786895079723.png:0
+[   59938ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956861063.png:0
+[   59938ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786895164801.png:0
+[   59953ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955165631.png:0
+[   59953ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1784278232340.png:0
+[   59953ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955295865.png:0
+[   59953ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281651447.jpg:0
+[   62275ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281818727.jpg:0
+[   62290ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954620167.png:0
+[   62307ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954661225.png:0
+[   62308ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954681257.png:0
+[   62308ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956817268.png:0
+[   62322ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956834836.png:0
+[   64625ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956880596.png:0
+[   64640ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1785664485511.webp:0
+[   64656ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955062370.png:0
+[   64656ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/logo.png:0
+[   64656ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1784278232340.png:0
+[   64671ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786955295865.png:0
+[   66967ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1778281651447.jpg:0
+[   66985ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1778281818727.jpg:0
+[   67002ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786954620167.png:0
+[   67002ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1785664485511.webp:0
+[   67019ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786954661225.png:0
+[   67019ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786954681257.png:0
+[   69326ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786955062370.png:0
+[   69326ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786956817268.png:0
+[   69356ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786956834836.png:0
+[   69356ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786956880596.png:0
+[   69372ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/logo.png:0
+[   69372ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/search.svg:0
+[   71683ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787598384490.webp:0
+[   71683ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787628463829.webp:0
+[   71716ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787598250897.webp:0
+[   71716ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787428510867.webp:0
+[   71729ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787513921448.webp:0
+[   71743ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787553144555.webp:0
+[   74040ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787599619974.webp:0
+[   74041ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787599192985.webp:0
+[   74071ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787635044676.webp:0
+[   74071ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786268892004.png:0
+[   74086ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956798302.png:0
+[   74102ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786268932607.png:0
+[   76400ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281410174.jpg:0
+[   76400ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786895079723.png:0
+[   76432ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956861063.png:0
+[   76432ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786895164801.png:0
+[   76443ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955165631.png:0
+[   76458ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1784278232340.png:0
+[   78750ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955295865.png:0
+[   78751ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281651447.jpg:0
+[   78783ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281818727.jpg:0
+[   78783ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954620167.png:0
+[   78800ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954661225.png:0
+[   78811ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954681257.png:0
+[   81101ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956817268.png:0
+[   81116ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956834836.png:0
+[   81132ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956880596.png:0
+[   81132ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1785664485511.webp:0
+[   81149ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955062370.png:0
+[   81178ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786956798302.png:0
+[   83452ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786268932607.png:0
+[   83469ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1778281410174.jpg:0
+[   83485ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786895079723.png:0
+[   83485ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786956861063.png:0
+[   83503ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786895164801.png:0
+[   83532ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786955165631.png:0
+[   85802ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1784278232340.png:0
+[   85834ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786955295865.png:0
+[   85852ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1778281651447.jpg:0
+[   85852ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1778281818727.jpg:0
+[   85869ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786954620167.png:0
+[   85895ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1785664485511.webp:0
+[   88137ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786954661225.png:0
+[   88168ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786954681257.png:0
+[   88187ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786955062370.png:0
+[   88187ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786956817268.png:0
+[   88203ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786956834836.png:0
+[   88250ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786956880596.png:0
+[   90501ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/logo.png:0
+[   90533ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787598384490.webp:0
+[   90550ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787628463829.webp:0
+[   90550ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787598250897.webp:0
+[   90559ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787428510867.webp:0
+[   90605ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787513921448.webp:0
+[   92868ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787553144555.webp:0
+[   92900ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787599619974.webp:0
+[   92917ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787599192985.webp:0
+[   92917ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787635044676.webp:0
+[   92917ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786268892004.png:0
+[   92960ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956798302.png:0
+[   95204ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786268932607.png:0
+[   95237ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281410174.jpg:0
+[   95237ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786895079723.png:0
+[   95237ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956861063.png:0
+[   95251ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786895164801.png:0
+[   95316ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955165631.png:0
+[   97554ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1784278232340.png:0
+[   97585ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955295865.png:0
+[   97585ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281651447.jpg:0
+[   97585ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281818727.jpg:0
+[   97601ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954620167.png:0
+[   97667ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954661225.png:0
+[   99919ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954681257.png:0
+[   99951ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956817268.png:0
+[   99951ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956834836.png:0
+[   99951ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956880596.png:0
+[   99967ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1785664485511.webp:0
+[  100028ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955062370.png:0
+[  102255ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/gamecare.png:0
+[  102287ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/gt.png:0
+[  102287ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/gamble-aware.svg:0
+[  102287ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/game-stop.png:0
+[  102304ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786268892004.png:0
+[  102383ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786956798302.png:0
+[  104594ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786268932607.png:0
+[  104625ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1778281410174.jpg:0
+[  104625ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786895079723.png:0
+[  104640ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786956861063.png:0
+[  104655ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786895164801.png:0
+[  104750ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786955165631.png:0
+[  106920ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1784278232340.png:0
+[  106984ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786955295865.png:0
+[  106984ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1778281651447.jpg:0
+[  107003ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1778281818727.jpg:0
+[  107019ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786954620167.png:0
+[  107105ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1785664485511.webp:0
+[  109245ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786954661225.png:0
+[  109307ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786954681257.png:0
+[  109307ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786955062370.png:0
+[  109322ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786956817268.png:0
+[  109338ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786956834836.png:0
+[  109451ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/1786956880596.png:0
+[  111610ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/logo.png:0
+[  111672ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/search.svg:0
+[  111672ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787598384490.webp:0
+[  111689ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787628463829.webp:0
+[  111704ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787598250897.webp:0
+[  111800ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787428510867.webp:0
+[  113952ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787513921448.webp:0
+[  114033ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787553144555.webp:0
+[  114033ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787599619974.webp:0
+[  114045ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787599192985.webp:0
+[  114060ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/banners/1787635044676.webp:0
+[  114152ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786268892004.png:0
+[  116310ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956798302.png:0
+[  116390ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786268932607.png:0
+[  116390ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281410174.jpg:0
+[  116390ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786895079723.png:0
+[  116405ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956861063.png:0
+[  116500ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786895164801.png:0
+[  118683ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955165631.png:0
+[  118746ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1784278232340.png:0
+[  118746ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955295865.png:0
+[  118760ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281651447.jpg:0
+[  118775ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1778281818727.jpg:0
+[  118854ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954620167.png:0
+[  121011ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954661225.png:0
+[  121089ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786954681257.png:0
+[  121089ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956817268.png:0
+[  121105ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956834836.png:0
+[  121119ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786956880596.png:0
+[  121201ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1785664485511.webp:0
+[  123373ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sport_files/sidebanners/1786955062370.png:0
+[  123451ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/cdn-cgi/challenge-platform/scripts/jsd/main.js:0
+[  123451ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/cdn-cgi/challenge-platform/scripts/jsd/main.js:0
+[  123451ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/cdn-cgi/challenge-platform/scripts/jsd/main.js:0
+[  123485ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/cdn-cgi/challenge-platform/scripts/jsd/main.js:0
+[  123558ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5050/cdn-cgi/challenge-platform/scripts/jsd/main.js:0
